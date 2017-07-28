@@ -37,4 +37,8 @@ The following AI techniques were used in this game:
     - Enemy is more likely to track the player when the player's health is low and they have few mines left
     
 ## Running the game
-Run the main.py file with Python 3
+Requires numpy and pygame:
+`pip3 install numpy pygame`
+
+Run the main.py file with Python 3:
+`python3 main.py`
